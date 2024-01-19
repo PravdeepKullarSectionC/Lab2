@@ -1,0 +1,91 @@
+.background{
+    margin: -.5%;
+    background-color: pink;
+}
+
+.navbar{
+    padding-top: .5em;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+.description
+{
+    padding-top: .5em;
+    padding-left: .5em;
+    font-size: 1.75em;
+    color: green;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.flex-container1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+    font-size: 30px;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color:wheat;
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.flex-container3 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: transparent;
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.rio{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+}
+
+.list
+{
+    text-align: left;
+}
+
+.bottom
+{
+background-color: beige;
+margin: -.5%;
+margin-top: -2%;
+ padding: 10%;
+ text-align: center;
+ font-size: 2em;
+}
+
+.humberimg{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.humbertext{
+    font-size: 1.75em;
+    padding-left: 32%;
+}
